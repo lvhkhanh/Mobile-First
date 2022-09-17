@@ -5,3 +5,4 @@ Mobile-First approach
 - [ ] https://skills.github.com/
 - [ ] https://fpt-software.udemy.com/course/mobile-development-architecture/
 - [ ] OAuth
+- [ ] CSS
