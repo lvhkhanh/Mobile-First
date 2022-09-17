@@ -6,5 +6,6 @@ Mobile-First approach
 - [ ] https://fpt-software.udemy.com/course/mobile-development-architecture/
 - [ ] OAuth
 - [ ] CSS
+- [ ] https://storybook.js.org/docs/angular/get-started/introduction
 ## Screens
 - [ ] Login
